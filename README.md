@@ -2,7 +2,7 @@
 
 ## ¿Qué hace?
 
-Este repositorio contiene la carpeta `corpus` y la notebook `ejercicio_tecnico.ipynb` para explorar y determinar el tópico de todas las conversaciones entre un cliente y un agente de contact center, es decir, el objetivo es determinar de qué se trata cada una de las conversaciones del corpus.
+Este repositorio tiene como objetivo explorar y determinar el tópico de todas las conversaciones entre un cliente y un agente de contact center. Como la desgrabación de cada llamada no es clara, tanto por el formato como por su contenido, se tuvo que hacer una carga y limpieza de datos, y luego el procesamiento de cada conversación utilizando un modelo de LLM.
 
 ## Cómo Usarlo
 
